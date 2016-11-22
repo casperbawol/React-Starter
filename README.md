@@ -1,8 +1,6 @@
 React Boilerplate
 ---
- 
-Welcome.
- 
+  
  
 Setup
 ---
@@ -12,13 +10,12 @@ npm install
 ```
  
  
- 
 Compile
 ---
  
 ```
 npm run compile
-
+```
 
 Usage
 ---
