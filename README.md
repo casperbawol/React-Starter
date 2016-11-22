@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React Boilerplate
 ---
  
@@ -31,3 +32,6 @@ npm start
  
  
  
+=======
+# React-Starter
+>>>>>>> 5d853320151c8639f7d984d2219e582d9eba73a6
